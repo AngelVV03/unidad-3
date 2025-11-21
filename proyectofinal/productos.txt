@@ -1,0 +1,5 @@
+1|Dieta personalizada (mensual)-Plan alimenticio adaptado a tus objetivos|299|mensual
+2|Rutina de entrenamiento a medida-Ejercicios adaptados segun tu nivel y metas|249|mensual
+3|Ebook de recetas saludables-Menus faciles y bajos en calorias|149|mensual
+4|Coaching nutricional semanal-Seguimiento y ajustes personalizados|400|semanal
+5|Plan detox de 7 dias-Limpieza rapida con alimentos naturales|129|semanal
